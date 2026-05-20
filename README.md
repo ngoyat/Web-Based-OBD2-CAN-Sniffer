@@ -116,4 +116,4 @@ When `USE_NATIVE_USB 1` is set, the device appears as a CDC serial port on the h
 
 ## License
 
-MIT
+MIT : do whatever you want no warranty implied
